@@ -1,4 +1,0 @@
-﻿  Ex_2.cpp
-C:\Users\choi0\Desktop\github\KDT-2-\cplusplus\Ex_2\Ex_2.cpp(13,19): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\choi0\Desktop\github\KDT-2-\cplusplus\Ex_2\Ex_2.cpp(14,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-  Ex_2.vcxproj -> C:\Users\choi0\Desktop\github\KDT-2-\cplusplus\Ex_2\x64\Debug\Ex_2.exe
